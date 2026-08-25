@@ -5,7 +5,7 @@ Purpose:
 Python learning material for medical physics and medical imaging.
 
 Website:
-Your PyMedLab website
+PyMedLab website
 
 Content:
 Modules → Lessons → Examples → Exercises → Projects
