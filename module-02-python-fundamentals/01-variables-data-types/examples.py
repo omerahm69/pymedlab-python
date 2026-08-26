@@ -15,3 +15,11 @@ print(glucose)
 print(hemoglobin)
 print(patient_name)
 print(age)
+
+patient_name = "Sarah Johnson"
+age = 57
+slice_thickness = 1.0
+
+print(patient_name)
+print(age)
+print(slice_thickness)
