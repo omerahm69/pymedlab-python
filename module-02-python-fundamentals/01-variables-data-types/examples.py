@@ -6,7 +6,12 @@ age=5.6;
 test_name="Glucose";
 result=5.6;
 unit="mmol/L";
-print("test_name")
-print("result")
-print ("unit")
 
+print(test_name)
+print(result)
+print(unit)
+
+print(glucose)
+print(hemoglobin)
+print(patient_name)
+print(age)
