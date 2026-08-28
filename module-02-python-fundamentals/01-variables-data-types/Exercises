@@ -1,0 +1,19 @@
+Create variables for:
+
+Patient age
+Patient height
+Patient weight
+
+Calculate BMI.
+
+Exercise 2
+
+A radiotherapy treatment delivers 2 Gy per fraction for 25 fractions.
+
+Calculate the total dose.
+
+Exercise 3
+
+A CT scanner produces 300 slices with a slice thickness of 1.25 mm.
+
+Calculate the approximate scan length.
